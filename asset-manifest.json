@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.f855e6bc.css",
-    "main.js": "/build/static/js/main.d80c1399.js",
-    "static/js/453.21c68509.chunk.js": "/build/static/js/453.21c68509.chunk.js",
-    "index.html": "/build/index.html",
-    "main.f855e6bc.css.map": "/build/static/css/main.f855e6bc.css.map",
-    "main.d80c1399.js.map": "/build/static/js/main.d80c1399.js.map",
-    "453.21c68509.chunk.js.map": "/build/static/js/453.21c68509.chunk.js.map"
+    "main.css": "/generic-local-storage/static/css/main.f855e6bc.css",
+    "main.js": "/generic-local-storage/static/js/main.0da50343.js",
+    "static/js/453.21c68509.chunk.js": "/generic-local-storage/static/js/453.21c68509.chunk.js",
+    "index.html": "/generic-local-storage/index.html",
+    "main.f855e6bc.css.map": "/generic-local-storage/static/css/main.f855e6bc.css.map",
+    "main.0da50343.js.map": "/generic-local-storage/static/js/main.0da50343.js.map",
+    "453.21c68509.chunk.js.map": "/generic-local-storage/static/js/453.21c68509.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d80c1399.js"
+    "static/js/main.0da50343.js"
   ]
 }
