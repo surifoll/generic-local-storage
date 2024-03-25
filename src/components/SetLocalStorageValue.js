@@ -1,7 +1,5 @@
 
 
-// ComponentA.js
-
 import React, { useState } from 'react';
 import useLocalStorage, { useLocalStorageContext } from '../contexts/LocalStorageContext';
 
