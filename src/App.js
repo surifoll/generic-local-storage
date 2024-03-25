@@ -1,25 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import DisplayLocalStorageValue from './components/DisplayLocalStorageValue';
+import SetLocalStorageValue from './components/SetLocalStorageValue';
+import { LocalStorageProvider } from './contexts/LocalStorageContext';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <LocalStorageProvider>
+        <div>
+          <SetLocalStorageValue />
+          <DisplayLocalStorageValue />
+          <DisplayLocalStorageValue />
+          <DisplayLocalStorageValue />
+        </div>
+      </LocalStorageProvider>
     </div>
   );
-}
+};
 
 export default App;
