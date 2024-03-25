@@ -2,7 +2,7 @@
   "name": "generic-local-storage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://surifoll.github.io/generic-local-storage",
+  "homepage": "https://surifoll.github.io/local-storage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
